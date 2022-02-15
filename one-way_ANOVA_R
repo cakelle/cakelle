@@ -1,4 +1,4 @@
-#ONE WAY ANOVA
+#ONE WAY ANOVA IN R
 # import table from .txt into a dataframe
 mydf= read.table("my-table.txt",header=TRUE);mydf
 # put data into a matrix
